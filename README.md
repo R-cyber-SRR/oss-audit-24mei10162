@@ -37,8 +37,8 @@ Takes user input and generates a manifesto saved to a file.
 
 ### Step 1: Clone Repository
 ```bash
-git clone <your-repo-link>
-cd <repo-folder>
+git clone https://github.com/R-cyber-SRR/oss-audit-24mei10162.git
+cd oss-audit-24mei10162
 ```
 ### step 2: Give Permission
 ```bash
